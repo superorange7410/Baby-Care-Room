@@ -18,17 +18,20 @@ As for the accessibility of baby care rooms, the distance between the building w
 Large real estate developers tend to have more capital than smaller real estate developers and will be better at building malls. Most shopping malls with the facilities were within 500 meters of the metro station of the 50 malls under 17 well-known or large real estate properties that were screened. Since metro stations can bring huge and stable passenger flow to shopping malls, this seamless mode can not only realize huge commercial value, but also improve the accessibility of baby care rooms.
 
 ![image](https://user-images.githubusercontent.com/83897078/117578951-716ef180-b123-11eb-855a-827eed5d3b52.png)
-Distance of Baby Care Rooms in Specific Malls from the MTR Station.
+
+Distance of Baby Care Rooms in Specific Malls from the MTR Station
 
 To measure the accessibility of the baby care room in building, we selected 13 shopping malls along the metro line for field tests, observe whether the actual information matches with the marking on the official website's floor plan, and simulate how long it takes people who need the baby care room to walk from the elevator to the destination after entering the shopping mall. This process includes two steps, that is, entering the shopping mall to the elevator and from the elevator to the baby care room.
 
 ![image](https://user-images.githubusercontent.com/83897078/117578997-8d729300-b123-11eb-83c6-f214ddbdf86d.png)
-13 shopping malls are located along the metro line.
+
+13 shopping malls are located along the metro line
 
 In the large shopping malls we visited, the accessibility of baby care room was not as high as we have expected. In practical scenarios, many parents will use baby strollers, which means that taking elevators is the most convenient choice. For large shopping malls, the overall floor area is relatively large, and the lack of guidance on elevators means that mothers will meet difficulties from the first step. In addition, many mall plans show the location of the baby care room, but there is no sign to guide it. Some are even placed in very private locations (outside the exit door), making it a long, agonizing journey for mothers and children in need to find an elevator. In some malls, baby care rooms are marked on the plan and provided with guide sign, but they are not accessible at any time. It is necessary to ask the mall administrator to get the right to use them and unlock the equipment.
 
 ![image](https://user-images.githubusercontent.com/83897078/117579006-9c594580-b123-11eb-9905-88228b722e3e.png)
-Harbour City, Telford Plaza.
+
+Harbour City, Telford Plaza
 
 A new problem arises when mothers are asked "Why you don't go to the toilet to breastfeed if you can't find a baby care room".
 
@@ -43,23 +46,28 @@ The poor breast-feeding environment oppressed the mother not only physically but
 In November 2018, the Buildings Department released a revised version of "Provision of Baby Care and Breastfeeding Rooms in Commercial Buildings" which sets out seven supporting facilities and space design specifications that should be available in baby care rooms in Hong Kong.
 
 ![image](https://user-images.githubusercontent.com/83897078/117579028-b09d4280-b123-11eb-9593-4c3571007b13.png)
-7 supporting facilities required in "Provision of Baby Care Room and Breastfeeding Room in Commercial Buildings".
+
+7 supporting facilities required in "Provision of Baby Care Room and Breastfeeding Room in Commercial Buildings"
 
 ![image](https://user-images.githubusercontent.com/83897078/117579049-ce6aa780-b123-11eb-8a50-722fb47f8c30.png)
-Space design specification in "Provision of Baby Care Room and Breastfeeding Room in Commercial Buildings".
+
+Space design specification in "Provision of Baby Care Room and Breastfeeding Room in Commercial Buildings"
 
 In terms of the environment and facilities, some shopping malls basically meet the requirements of the government proposal document. The baby care room and toilet are separated and have a hygienic and comfortable environment. At the same time, the internal facilities are relatively completed, with comfortable seats, washing equipments and nappy table with raised edges, additional tools such as milk warmers, hot and cold water, and wet wipes, were also provided.
 
 ![image](https://user-images.githubusercontent.com/83897078/117579057-d88ca600-b123-11eb-8115-56421fb6786a.png)
-Comfortable seat (Telford Plaza Phase 2).
+
+Comfortable seat (Telford Plaza Phase 2)
 
 ![image](https://user-images.githubusercontent.com/83897078/117579067-e2aea480-b123-11eb-886e-b0a6e4f68a5c.png)
-Provision of Additional Facilities (Telford Place Phase 2).
+
+Provision of Additional Facilities (Telford Place Phase 2)
 
 However, there are still many shopping malls where baby care rooms are combined with women's toilets or toilets for the disabled, and the facilities and hygiene conditions are not ideal. The antibodies that newborns receive from their mothers diminish over time, and for babies with insufficient immunity and resistance, bacteria in the toilets may cause infections that can be harmful to their health. At the same time, the diaper table is set up in the women's toilet directly ignoring the possibility of men going out with their babies, and if they do encounter such a need one day, how will they be able to handle it?
 
 ![image](https://user-images.githubusercontent.com/83897078/117579072-ed693980-b123-11eb-905c-e24db985e504.png)
-A diaper table in the washroom (Telford Plaza Phase 1 & Festival Walk MTR).
+
+A diaper table in the washroom (Telford Plaza Phase 1 & Festival Walk MTR)
 
 From the scene, we can see that some shopping malls only have simple retractable diaper tables installed on the wall. In addition, there is neither a seat for the mother to sit down to breastfeed, nor a small side table can be placed items, and when the diaper table is put down, the space becomes very small, even the stroller cannot be placed, which will cause great inconvenience for mothers who take their babies alone. Without a seat, it is also difficult for a mother to breastfeed for a long time alone.
 
@@ -74,15 +82,18 @@ Central MTR
 Siu Sai Wan Sports Ground
 
 ![image](https://user-images.githubusercontent.com/83897078/117579129-20133200-b124-11eb-9b1e-e649218f1cc9.png)
+
 Conditions of diaper table equipment
 
 ![image](https://user-images.githubusercontent.com/83897078/117579143-33260200-b124-11eb-9c53-42b34c3d674f.png)
+
 Conditions of Washing Tank
 
 Asymmetric information acquisition is also a problem in baby care rooms in shopping malls. Among the 50 shopping malls of 17 large real estate companies, 33 of them have baby care rooms information on their official websites, while only 27 of them have baby care rooms marked on their official floor plans. Although some malls have baby care rooms, they do not provide a convenient way for people in need to search for them, which can lead people to believe that the mall does not have this service. On the other hand, some malls are not marked with the specific location of the baby-sitting room, and the service desk is not in a conspicuous area, so when mothers holding their children in the mall need to use, they have to keep looking in different floor, which is a huge "workload" for parents who go out alone with their babies.
 
 ![image](https://user-images.githubusercontent.com/83897078/117579157-40db8780-b124-11eb-959d-f204c7bf8ac1.png)
-Marking Information of Specific Malls.
+
+Marking Information of Specific Malls
 
 As a special use place, the designer should think and design from the perspective of the user. A uniform signage set-up allows users to find the location of the baby care rooms at a glance, rather than having to go through a bunch of various signs to identify it in detail. A clear navigation note allows mothers to find the baby care rooms in the shortest possible time, rather than running back and forth through layers of stores with their babies to find it.
 
